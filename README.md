@@ -25,7 +25,7 @@ This process runs **continuously**, simulating real-time decision-making like a 
 - 3-pin Ultrasonic Distance Sensor  
 - 3 LEDs: Red, Yellow, Green  
 - 3 × 220Ω resistors  
-- Breadboard and jumper wires  
+- Jumper wires  
 
 ---
 
